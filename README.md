@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
 ## Greedy
 |  |
@@ -80,14 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
