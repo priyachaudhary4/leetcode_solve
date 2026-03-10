@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Greedy
 |  |
 | ------- |
@@ -133,8 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
