@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
+| [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
+| [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0098-validate-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
