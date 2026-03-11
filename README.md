@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
+| [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
