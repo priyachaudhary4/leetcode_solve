@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1641-count-sorted-vowel-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1641-count-sorted-vowel-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Game Theory
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1641-count-sorted-vowel-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1641-count-sorted-vowel-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
 | ------- |
@@ -177,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
