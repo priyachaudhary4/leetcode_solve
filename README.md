@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1641-count-sorted-vowel-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1641-count-sorted-vowel-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1641-count-sorted-vowel-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1641-count-sorted-vowel-strings) |
 ## Game Theory
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1641-count-sorted-vowel-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1641-count-sorted-vowel-strings) |
 ## Design
 |  |
 | ------- |
