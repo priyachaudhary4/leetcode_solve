@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
