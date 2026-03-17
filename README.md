@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
@@ -98,12 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -198,4 +202,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
