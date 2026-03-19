@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
+| [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
