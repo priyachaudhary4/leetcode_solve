@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
