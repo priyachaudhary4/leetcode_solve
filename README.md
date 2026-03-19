@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0535-encode-and-decode-tinyurl) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
@@ -173,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0098-validate-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0572-subtree-of-another-tree) |
 ## Math
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
