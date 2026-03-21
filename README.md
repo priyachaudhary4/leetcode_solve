@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
@@ -251,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
