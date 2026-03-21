@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 ## Stack
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
