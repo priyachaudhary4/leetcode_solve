@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
