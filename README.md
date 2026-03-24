@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0066-plus-one) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
