@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0039-combination-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
