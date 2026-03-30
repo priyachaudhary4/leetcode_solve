@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0032-longest-valid-parentheses) |
+| [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 ## Stack
