@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
+| [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0066-plus-one) |
+| [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0060-permutation-sequence) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
