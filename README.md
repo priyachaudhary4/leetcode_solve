@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 ## Matrix
 |  |
 | ------- |
