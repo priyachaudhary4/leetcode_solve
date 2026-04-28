@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3905-multi-source-flood-fill](https://github.com/priyachaudhary4/leetcode_solve/tree/master/3905-multi-source-flood-fill) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
+| [3905-multi-source-flood-fill](https://github.com/priyachaudhary4/leetcode_solve/tree/master/3905-multi-source-flood-fill) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3905-multi-source-flood-fill](https://github.com/priyachaudhary4/leetcode_solve/tree/master/3905-multi-source-flood-fill) |
 ## Simulation
 |  |
 | ------- |
