@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0096-unique-binary-search-trees) |
 | [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
