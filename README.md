@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0093-restore-ip-addresses) |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0535-encode-and-decode-tinyurl) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
