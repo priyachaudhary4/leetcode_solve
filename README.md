@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-longest-happy-prefix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1392-longest-happy-prefix) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0572-subtree-of-another-tree) |
 ## Hash Table
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
+| [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0110-balanced-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0572-subtree-of-another-tree) |
 ## Math
 |  |
