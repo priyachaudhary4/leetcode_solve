@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-longest-happy-prefix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0535-encode-and-decode-tinyurl) |
 ## Counting
 |  |
