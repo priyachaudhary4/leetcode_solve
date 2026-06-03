@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
