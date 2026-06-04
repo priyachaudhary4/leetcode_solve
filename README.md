@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-longest-happy-prefix](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1392-longest-happy-prefix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
+| [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0397-integer-replacement) |
+| [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0920-number-of-music-playlists) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/priyachaudhary4/leetcode_solve/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Merge Sort
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
+| [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 | [0572-subtree-of-another-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0572-subtree-of-another-tree) |
 ## Math
 |  |
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 ## Graph Theory
 |  |
 | ------- |
