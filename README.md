@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0335-self-crossing) |
 | [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
+| [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Divide and Conquer
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Merge Sort
 |  |
