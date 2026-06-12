@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0139-word-break) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
