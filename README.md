@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
 | [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
