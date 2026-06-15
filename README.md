@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
 | ------- |
