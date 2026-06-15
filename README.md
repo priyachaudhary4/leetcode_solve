@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0876-middle-of-the-linked-list) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0451-sort-characters-by-frequency) |
