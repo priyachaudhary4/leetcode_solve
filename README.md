@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0218-the-skyline-problem](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0332-reconstruct-itinerary) |
 | [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0200-number-of-islands) |
 | [3905-multi-source-flood-fill](https://github.com/priyachaudhary4/leetcode_solve/tree/master/3905-multi-source-flood-fill) |
 ## Stack
 |  |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0200-number-of-islands) |
 | [3905-multi-source-flood-fill](https://github.com/priyachaudhary4/leetcode_solve/tree/master/3905-multi-source-flood-fill) |
 ## Simulation
 |  |
