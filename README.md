@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0877-stone-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0209-minimum-size-subarray-sum) |
 | [0220-contains-duplicate-iii](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0220-contains-duplicate-iii) |
+| [0643-maximum-average-subarray-i](https://github.com/priyachaudhary4/leetcode_solve/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
